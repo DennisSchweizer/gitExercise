@@ -5,3 +5,4 @@ Mehr text
 Ein Text, der nur im neuen Branch vorkommt
 Ein Text, der einen Konflikt zwischen 2 Branches erzeugen wird.
 Ein mächtiges neues Feature
+Das hier ist nur im Master branch
