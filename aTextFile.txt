@@ -4,3 +4,4 @@ Jetzt schreibe ich einen Text in nano.
 Mehr text
 Ein Text, der nur im neuen Branch vorkommt
 Ein Text, der einen Konflikt zwischen 2 Branches erzeugen wird.
+Das hier ist nur im Master branch
