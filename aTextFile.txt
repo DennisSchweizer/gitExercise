@@ -2,3 +2,5 @@ Ich schreibe mit meiner tollen neuen Tastatur einen Text und übe git.
 Jetzt schreibe ich einen Text in nano.
 
 Mehr text
+Ein Text, der nur im neuen Branch vorkommt
+Ein Text, der einen Konflikt zwischen 2 Branches erzeugen wird.
